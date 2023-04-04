@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: inherit;
+    width: 100%;
+    background-color: rgb(192, 192, 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab{
+    text-align: center;
+   
+}
+
+
+.tr{
+    background-color: aqua;
+}
+
+.tr2{
+    background-color:orange;
+}
+
+.tr2:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.tr3{
+    background-color:rgb(128, 128, 120);
+}
+
+.tr4{
+    background-color:rgb(243, 209, 15);
+}
+
+.tr5{
+    background-color:green;
+}
+
+.tr6{
+    background-color:grey;
+}
+
+.tr7{
+    background-color:blue;
+}
+
+.tr8{
+    background-color:blueviolet;
+}
+
+.tr9{
+    background-color:brown;
+}
+
+.tr10{
+    background-color:red;
+}
+
+.tr11{
+    background-color:purple;
+}
+
+.tr12{
+    background-color:rgb(185, 185, 91);
+}
+
+.h1{
+ font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+}
+
+.tr:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr3:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr4:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr5:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr6:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr7:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr8:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr9:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr10:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr11:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tr12:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div{
+    display: flex;
+}
+
+
+
+
